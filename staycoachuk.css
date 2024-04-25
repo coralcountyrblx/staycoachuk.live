@@ -1,6 +1,6 @@
 html { /* Main Page Colors & Styles */
-color: #B0B0B0;
-background: #181818;
+color: #1785AE;
+background: #3B9160;
 font-family: "Poppins", sans-serif;
 font-weight: 400;
 font-style: normal;
@@ -16,7 +16,7 @@ font-style: normal;
 border: none;
 border-radius: 7px;
 position: sticky; top: 0;
-background: rgba(112, 112, 112, 0.1);
+background-color: #F9EA00;
         }
 
 footer { /* Footer Styling */
@@ -30,7 +30,7 @@ border: none;
 border-radius: 7px;
 position: sticky; bottom: 0;
 width: 99%;
-background: rgba(112, 112, 112, 0.1);
+background-color: #F9EA00;
         }
         
 button { /* Button Styling */
