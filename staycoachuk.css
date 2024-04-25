@@ -1,0 +1,118 @@
+html { /* Main Page Colors & Styles */
+color: #B0B0B0;
+background: #181818;
+font-family: "Poppins", sans-serif;
+font-weight: 400;
+font-style: normal;
+        }
+
+header { /* Navbar & Header Styling */
+color: #ffffff;
+padding: 5px;
+padding-left: 5px;
+font-family: "Poppins", sans-serif;
+font-weight: 500;
+font-style: normal;
+border: none;
+border-radius: 7px;
+position: sticky; top: 0;
+background: rgba(112, 112, 112, 0.1);
+        }
+
+footer { /* Footer Styling */
+color: #ffffff;
+padding: 5px;
+padding-left: 5px;
+font-family: "Poppins", sans-serif;
+font-weight: 500;
+font-style: normal;
+border: none;
+border-radius: 7px;
+position: sticky; bottom: 0;
+width: 99%;
+background: rgba(112, 112, 112, 0.1);
+        }
+        
+button { /* Button Styling */
+border: none;
+padding: 7px;
+border-radius: 7px;
+font-family: "Poppins", sans-serif;
+font-weight: 600;
+font-style: normal;
+color: #B0B0B0;
+font-size: 20px;
+z-index: 2;
+background: rgba(112, 112, 112, 0.1);
+        }
+
+code { /* Code Block Styling */
+color: #ffffff;
+font-family: "Poppins", sans-serif;
+font-weight: 300;
+font-style: bold;
+border: none;
+border-radius: 7px;
+padding: 5px;
+font-size: 18px;
+background: rgba(112, 112, 112, 0.1);
+        }
+        
+img { /* Image Styling */
+padding: 5px;
+border: none;
+border-radius: 7px;
+        }
+        
+ht { /* Header Text Styling */
+padding: 7px;
+font-family: "Poppins", sans-serif;
+font-weight: 600;
+font-style: normal;
+color: #ffffff;
+font-size: 25px;
+        }
+        
+.tooltip {
+position: relative;
+display: inline-block;
+background: #0069f3;
+color: #B0B0B0;
+font-family: "Poppins", sans-serif;
+font-weight: 400;
+font-style: normal;
+        }
+
+.tooltip .tooltiptext {
+visibility: hidden;
+background-color: #0069f3;
+color: #B0B0B0;
+text-align: center;
+border-radius: 7px;
+padding: 6px;
+width: 100%;
+bottom: 100%;
+left: 50%;
+margin-left: -60px;
+position: absolute;
+z-index: 1;
+font-family: "Poppins", sans-serif;
+font-weight: 400;
+font-style: normal;
+
+        }
+
+.tooltip:hover .tooltiptext {
+visibility: visible;
+        }
+partners {
+color: #ffffff;
+background: #0069f3;
+padding: 5px;
+padding-left: 5px;
+font-family: "Poppins", sans-serif;
+font-weight: 500;
+font-style: normal;
+border: none;
+border-radius: 7px;
+        }
